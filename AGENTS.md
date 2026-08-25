@@ -10,10 +10,11 @@ This repository documents a real, ongoing company experiment.
 - Mark experiment status explicitly when useful: ✅ Worked, 💥 Failed, 🧪 Testing, ⏳ Planned.
 - Keep each public story focused. Do not append toolkits, canvases, diagnostic tables, or full implementation guides.
 - Remove repeated arguments. One story should carry one central tension and one principal lesson.
+- The two launch stories are author-approved long-form exceptions: preserve their Chinese source narrative and structure, omit the closing toolkits, and maintain a complete English translation.
 
 ## Bilingual contract
 
-- English is the default GitHub interface.
+- Chinese is the default GitHub landing page; English remains a complete parallel version.
 - Every published content page must have a complete Chinese counterpart and visible language switch at the top.
 - Publish English and Chinese updates in the same change.
 - English pages use the author name `Jacky Hsu` only.
@@ -24,7 +25,7 @@ This repository documents a real, ongoing company experiment.
 
 Do not publish:
 
-- extensive verbatim source text;
+- unapproved source text beyond the author-selected stories;
 - toolkits, diagnostic frameworks, canvases, or detailed execution recipes;
 - internal prompts, proprietary workflows, source code, credentials, customer information, or sensitive company details;
 - confidential commercial relationships;

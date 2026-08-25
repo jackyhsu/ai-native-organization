@@ -1,81 +1,81 @@
-# AI Native Organization
+# AI 原生组织
 
-English | [中文](README.zh-CN.md)
+[English](README.en.md) | 中文
 
-**A live experiment in rebuilding a company around AI.**
+**一场围绕 AI 重建公司的真实实验。**
 
-> Can 5 humans build what used to require 50?
+> 五个人，能不能建立过去可能需要五十人才有机会覆盖的公司能力？
 
-## The experiment in 30 seconds
+## 30 秒理解这场实验
 
-Ingora is a five-person startup trying to operate across a capability surface that might once have required dozens of people: research, product, software, testing, operations, finance, compliance, and more.
+Ingora 是一个五人创业团队，却正在尝试覆盖过去可能需要几十人才有机会同时覆盖的能力范围：研究、产品、软件、测试、运营、财务与合规等。
 
-AI agents make that range possible. They do not make the team equivalent to a 50-person company.
+AI Agent 让小团队可以进入更多能力空间，但这不代表五个人已经拥有五十个人的生产力。
 
-That distinction is the experiment.
+这两者之间的差距，正是我们要验证的实验。
 
-When execution becomes easier to obtain, judgment, taste, organizational memory, governance, and feedback may become the real constraints. We are documenting what happens while we test that idea inside a real company—including the moments when it works, fails, or produces a result we do not yet understand.
+当执行能力变得更容易获得，判断、品味、组织记忆、治理与反馈，可能成为新的瓶颈。我们会持续记录这场实验真实发生的结果，包括成功、失败，以及暂时还无法解释的部分。
 
-## Start with two stories
+## 从两个故事开始
 
-### ✅ Worked—with governance limits
+### ✅ 有效，但存在治理边界
 
-[**The Founder Was Away for 9 Days. The Company Kept Learning**](stories/001-founder-away.md)
+[**创始人离开九天，公司仍在学习**](zh-CN/stories/001-founder-away.md)
 
-While the founder had very limited time to read during a trek in Kazakhstan, the company knowledge system continued collecting and processing information. It produced nearly 200 candidate knowledge items—but none became company memory without human review.
+创始人在哈萨克斯坦徒步期间几乎无法持续阅读，公司知识系统仍在收集和处理信息，形成了近 200 份候选知识。但未经人工审核，它们不会成为公司的正式记忆。
 
-### 💥 Failed
+### 💥 失败
 
-[**We Thought We Didn’t Need Engineers—Until We Found a 30,000-Line File**](stories/002-we-thought-we-didnt-need-engineers.md)
+[**我们以为不需要工程师，直到发现一个三万行的文件**](zh-CN/stories/002-we-thought-we-didnt-need-engineers.md)
 
-AI helped two experienced product and technology leaders cross a boundary they had not crossed in years. It also helped them build an architectural crisis faster than they expected.
+AI 帮助两位资深产品与技术负责人重新跨入软件开发，也让他们以意想不到的速度制造了一场架构危机。
 
-## What this is
+## 这是什么
 
-This repository is a public, ongoing record of the experiments behind Ingora:
+这是 Ingora 持续公开的真实公司实验：
 
-- What did we try?
-- What actually happened?
-- What surprised or contradicted us?
-- What question are we testing next?
+- 我们尝试了什么？
+- 实际发生了什么？
+- 什么结果让我们意外，甚至推翻了原来的判断？
+- 下一步准备验证什么？
 
-The outcome is unknown. That uncertainty is part of the project.
+实验结果尚未确定。这种不确定性本身就是项目的一部分。
 
-## What this is not
+## 这不是什么
 
-This is not a generic AI management guide or a claim that AI can replace every specialist.
+这不是通用的 AI 管理指南，也不宣称 AI 可以取代所有专业人员。
 
-This repository stays with the observable story. It deliberately excludes diagnostic toolkits, internal prompts, proprietary workflows, and sensitive company information.
+这个仓库只记录可以公开观察的故事，不发布诊断工具箱、内部 Prompt、专有工作流或敏感公司信息。
 
-## Follow the experiment
+## 追踪实验
 
-We plan to publish one bilingual episode every two weeks. The [Experiment Roadmap](roadmap/experiments.md) shows the next questions without revealing the answers in advance.
+我们计划每两周发布一篇中英文故事。[实验路线图](zh-CN/roadmap/experiments.md)会公开下一批问题，但不会提前公布答案。
 
-Status markers:
+状态标记：
 
-- ✅ Worked
-- 💥 Failed
-- 🧪 Testing
-- ⏳ Planned
+- ✅ 有效
+- 💥 失败
+- 🧪 测试中
+- ⏳ 计划中
 
-If you want to know what happens next, **[star this repository](https://github.com/jackyhsu/ai-native-organization)** and join the [Discussions](https://github.com/jackyhsu/ai-native-organization/discussions).
+如果你想知道接下来会发生什么，请 **[Star 本仓库](https://github.com/jackyhsu/ai-native-organization)**，并参与 [Discussions](https://github.com/jackyhsu/ai-native-organization/discussions)。
 
-## About Ingora
+## 关于 Ingora
 
-Ingora is a Singapore company experimenting with what it means to build an AI-native organization. At this early stage, access to AI talent and hardware supply chains matters, so many of the stories in this repository take place inside its Shanghai subsidiary in China.
+Ingora 是一家新加坡公司，正在探索如何建立真正的 AI 原生组织。创业初期，出于 AI 人才与硬件供应链的需要，本仓库中的许多故事发生在 Ingora 位于中国上海的子公司。
 
-The experiment is led by **Jacky Hsu**, who spent nearly 25 years in the technology industry at Microsoft before founding Ingora in 2026.
+这场实验由 **Jacky Hsu（许建志）** 发起。他在微软与科技行业工作近 25 年，并于 2026 年创立 Ingora。
 
-Read [why we are running this experiment](about/why-this-experiment.md) and the short [Ingora background](about/ingora.md).
+继续阅读[为什么要做这场实验](zh-CN/about/why-this-experiment.md)以及简短的 [Ingora 背景](zh-CN/about/ingora.md)。
 
-## Participate
+## 参与方式
 
-Use [Discussions](https://github.com/jackyhsu/ai-native-organization/discussions) for questions and ideas about the experiments. Use [Issues](https://github.com/jackyhsu/ai-native-organization/issues) only for factual corrections, broken links, or differences between the English and Chinese versions.
+关于实验的问题与想法请发布到 [Discussions](https://github.com/jackyhsu/ai-native-organization/discussions)。[Issues](https://github.com/jackyhsu/ai-native-organization/issues) 只用于事实纠错、失效链接或中英文版本差异。
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue or pull request.
+提交 Issue 或 Pull Request 前，请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
-## License
+## 许可
 
-Unless otherwise noted, the written content is licensed under [CC BY-NC-ND 4.0](LICENSE): you may share it with attribution for non-commercial purposes, but may not distribute modified versions.
+除非另有说明，文字内容采用 [CC BY-NC-ND 4.0](LICENSE)：允许署名、非商业分享，但不允许传播修改后的版本。
 
-— **Jacky Hsu**
+— **Jacky Hsu（许建志）**
