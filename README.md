@@ -6,12 +6,6 @@ English | [中文](README.zh-CN.md)
 
 > Can 5 humans build what used to require 50?
 
-[![GitHub stars](https://img.shields.io/github/stars/jackyhsu/ai-native-organization?style=flat&logo=github&label=Stars)](https://github.com/jackyhsu/ai-native-organization/stargazers)
-[![Content license](https://img.shields.io/badge/content-CC%20BY--NC--ND%204.0-lightgrey.svg)](LICENSE)
-[![English and Chinese](https://img.shields.io/badge/languages-English%20%7C%20中文-1f6feb.svg)](README.zh-CN.md)
-
-![AI Native Organization: five humans, AI agents, one real startup](assets/social-preview.png)
-
 ## The experiment in 30 seconds
 
 Ingora is a five-person startup trying to operate across a capability surface that might once have required dozens of people: research, product, software, testing, operations, finance, compliance, and more.

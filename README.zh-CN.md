@@ -6,12 +6,6 @@
 
 > 五个人，能不能建立过去可能需要五十人才有机会覆盖的公司能力？
 
-[![GitHub stars](https://img.shields.io/github/stars/jackyhsu/ai-native-organization?style=flat&logo=github&label=Stars)](https://github.com/jackyhsu/ai-native-organization/stargazers)
-[![内容许可](https://img.shields.io/badge/content-CC%20BY--NC--ND%204.0-lightgrey.svg)](LICENSE)
-[![English and Chinese](https://img.shields.io/badge/languages-English%20%7C%20中文-1f6feb.svg)](README.md)
-
-![AI 原生组织：五个人、AI Agent、一家真实创业公司](assets/social-preview.png)
-
 ## 30 秒理解这场实验
 
 Ingora 是一个五人创业团队，却正在尝试覆盖过去可能需要几十人才有机会同时覆盖的能力范围：研究、产品、软件、测试、运营、财务与合规等。
