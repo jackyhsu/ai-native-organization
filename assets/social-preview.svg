@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">AI Native Organization</title>
+  <desc id="desc">Five humans, AI agents, one real startup. A live company experiment.</desc>
+  <rect width="1280" height="640" fill="#f5f1e8"/>
+  <rect x="64" y="64" width="14" height="512" rx="7" fill="#155eef"/>
+  <text x="116" y="112" fill="#155eef" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="4">LIVE COMPANY EXPERIMENT</text>
+  <text x="112" y="220" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800">5 HUMANS.</text>
+  <text x="112" y="316" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800">AI AGENTS.</text>
+  <text x="112" y="412" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800">ONE REAL STARTUP.</text>
+  <line x1="112" y1="470" x2="1168" y2="470" stroke="#111827" stroke-width="2" opacity="0.24"/>
+  <text x="112" y="530" fill="#374151" font-family="Georgia, 'Times New Roman', serif" font-size="34">Can 5 people build what used to require 50?</text>
+  <text x="112" y="574" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">AI NATIVE ORGANIZATION</text>
+</svg>

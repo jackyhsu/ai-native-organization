@@ -1,0 +1,27 @@
+title: "[Question] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask about a published experiment, its limits, or an unresolved contradiction.
+        讨论已发布实验、实验边界或尚未解决的矛盾。
+  - type: input
+    id: experiment
+    attributes:
+      label: Experiment / 实验
+      description: Link to the story or roadmap item you are discussing.
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Question / 问题
+      description: What do you want to understand or challenge?
+    validations:
+      required: true
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Why it matters / 为什么重要
+      description: Add relevant experience, evidence, or a competing interpretation.

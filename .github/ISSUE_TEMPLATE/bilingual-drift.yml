@@ -1,0 +1,39 @@
+name: Bilingual mismatch / 双语差异
+description: Report a meaningful difference between the English and Chinese versions.
+title: "[Bilingual] "
+labels:
+  - bilingual-drift
+body:
+  - type: input
+    id: english
+    attributes:
+      label: English page
+      placeholder: https://github.com/jackyhsu/ai-native-organization/blob/main/...
+    validations:
+      required: true
+  - type: input
+    id: chinese
+    attributes:
+      label: 中文页面
+      placeholder: https://github.com/jackyhsu/ai-native-organization/blob/main/zh-CN/...
+    validations:
+      required: true
+  - type: textarea
+    id: mismatch
+    attributes:
+      label: Difference / 差异
+      description: Identify the changed fact, quantity, status, caveat, or meaning.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested alignment / 对齐建议
+      description: Suggest the smallest change that restores factual equivalence.
+  - type: checkboxes
+    id: boundary
+    attributes:
+      label: Public-content check / 公开边界确认
+      options:
+        - label: I have not included confidential information. / 我没有提交保密信息。
+          required: true

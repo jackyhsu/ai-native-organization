@@ -1,0 +1,27 @@
+title: "[Next test] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest a question for the live company experiment—not a product request or generic AI topic.
+        为真实公司实验提出一个问题，而不是产品需求或泛泛的 AI 话题。
+  - type: textarea
+    id: hypothesis
+    attributes:
+      label: Question or hypothesis / 问题或假设
+      description: State one specific idea that could be tested.
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: What would we observe? / 应该观察什么？
+      description: Describe evidence that might support or contradict the idea.
+    validations:
+      required: true
+  - type: textarea
+    id: risk
+    attributes:
+      label: Important boundary / 重要边界
+      description: Note any privacy, safety, governance, or interpretation risk.

@@ -1,0 +1,55 @@
+name: Factual correction / 事实纠错
+description: Report a verifiable factual error or broken link.
+title: "[Correction] "
+labels:
+  - factual-correction
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping keep this public experiment accurate.
+        感谢你帮助这场公开实验保持准确。
+  - type: input
+    id: page
+    attributes:
+      label: Page / 页面
+      description: Link to the exact English or Chinese page.
+      placeholder: https://github.com/jackyhsu/ai-native-organization/blob/main/...
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current statement / 当前表述
+      description: Quote only the shortest text needed to identify the issue.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence / 证据
+      description: Explain what is incorrect and provide a reliable source when possible.
+    validations:
+      required: true
+  - type: dropdown
+    id: affected
+    attributes:
+      label: Affected versions / 受影响版本
+      options:
+        - English
+        - 中文
+        - Both / 两个版本
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Suggested correction / 修改建议
+      description: Optional concise wording that preserves uncertainty and caveats.
+  - type: checkboxes
+    id: boundary
+    attributes:
+      label: Public-content check / 公开边界确认
+      options:
+        - label: I have not included confidential company, customer, employee, or third-party information. / 我没有提交公司、客户、员工或第三方保密信息。
+          required: true
