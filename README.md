@@ -43,9 +43,9 @@ The outcome is unknown. That uncertainty is part of the project.
 
 ## What this is not
 
-This is not an open-source book, a generic AI management guide, or a claim that AI can replace every specialist.
+This is not a generic AI management guide or a claim that AI can replace every specialist.
 
-A related book project examines the full context, frameworks, implementation methods, and management implications. This repository stays with the observable story. It deliberately excludes book chapters, diagnostic toolkits, internal prompts, proprietary workflows, and sensitive company information.
+This repository stays with the observable story. It deliberately excludes diagnostic toolkits, internal prompts, proprietary workflows, and sensitive company information.
 
 ## Follow the experiment
 

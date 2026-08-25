@@ -1,6 +1,6 @@
 # Public content instructions
 
-This repository documents a real, ongoing company experiment. It is not the open-source edition of a book.
+This repository documents a real, ongoing company experiment.
 
 ## Narrative contract
 
@@ -8,7 +8,7 @@ This repository documents a real, ongoing company experiment. It is not the open
 - Prefer one concrete story over a generic management lesson.
 - Use this sequence: unexpected situation, prior belief, what happened, contradiction or failure, one lesson, open question, next test.
 - Mark experiment status explicitly when useful: ✅ Worked, 💥 Failed, 🧪 Testing, ⏳ Planned.
-- Keep each public story focused. Do not append book toolkits, canvases, diagnostic tables, or full implementation guides.
+- Keep each public story focused. Do not append toolkits, canvases, diagnostic tables, or full implementation guides.
 - Remove repeated arguments. One story should carry one central tension and one principal lesson.
 
 ## Bilingual contract
@@ -24,10 +24,10 @@ This repository documents a real, ongoing company experiment. It is not the open
 
 Do not publish:
 
-- full book chapters, book outlines, or extensive verbatim manuscript text;
-- book toolkits, diagnostic frameworks, canvases, or detailed execution recipes;
+- extensive verbatim source text;
+- toolkits, diagnostic frameworks, canvases, or detailed execution recipes;
 - internal prompts, proprietary workflows, source code, credentials, customer information, or sensitive company details;
-- unconfirmed publisher relationships or confidential commercial relationships;
+- confidential commercial relationships;
 - exact productivity claims when the comparison was not a controlled benchmark.
 
 Approximate figures must remain approximate. `5 → 50` describes a capability-surface question, not a measured claim that five people equal fifty people in productivity.

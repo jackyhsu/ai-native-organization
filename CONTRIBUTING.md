@@ -8,7 +8,7 @@ Thank you for following the experiment. This repository is an authored record of
 
 - Use [Discussions](https://github.com/jackyhsu/ai-native-organization/discussions) for questions, interpretations, and suggestions for what we should test next.
 - Open an [Issue](https://github.com/jackyhsu/ai-native-organization/issues) for a factual correction, broken link, or mismatch between the English and Chinese versions.
-- Please do not submit external stories, book-like chapters, translations, promotional copy, or unsolicited rewrites as pull requests.
+- Please do not submit external stories, long-form essays, translations, promotional copy, or unsolicited rewrites as pull requests.
 
 If a correction requires a text change, the maintainer may invite a focused pull request after the issue is reviewed.
 
@@ -33,7 +33,7 @@ Please keep discussion specific, respectful, and evidence-oriented.
 
 - 关于实验的问题、理解与下一步建议，请使用 [Discussions](https://github.com/jackyhsu/ai-native-organization/discussions)。
 - 事实错误、失效链接或中英文差异，请提交 [Issue](https://github.com/jackyhsu/ai-native-organization/issues)。
-- 请不要直接提交外部故事、书籍式章节、翻译稿、宣传文案或大篇幅改写。
+- 请不要直接提交外部故事、长篇文章、翻译稿、宣传文案或大篇幅改写。
 
 如果纠错需要修改文字，维护者可能在核实 Issue 后邀请一个范围明确的 Pull Request。
 

@@ -4,7 +4,7 @@ English | [中文](../zh-CN/roadmap/experiments.md)
 
 **By Jacky Hsu**
 
-This is an episode roadmap, not a book outline. It shows the questions we are following without publishing the complete explanations or implementation methods.
+This episode roadmap shows the questions we are following without publishing the complete explanations or implementation methods.
 
 | Episode | Experiment status | Publication |
 | --- | --- | --- |
