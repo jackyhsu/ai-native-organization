@@ -57,7 +57,7 @@ This repository stays with the observable story. It deliberately excludes diagno
 
 ## Follow the experiment
 
-We plan to publish one bilingual episode every two weeks. The [Experiment Roadmap](roadmap/experiments.md) shows the next questions without revealing the answers in advance.
+We plan to publish one bilingual article every two weeks. The [Experiment Roadmap](roadmap/experiments.md) shows the next questions without revealing the answers in advance.
 
 If you want to know what happens next, **[star this repository](https://github.com/jackyhsu/ai-native-organization)** and join the [Discussions](https://github.com/jackyhsu/ai-native-organization/discussions).
 

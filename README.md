@@ -57,7 +57,7 @@ AI Agent 让小团队可以进入更多能力空间，但这不代表五个人�
 
 ## 追踪实验
 
-我们计划每两周发布一篇中英文故事。[实验路线图](zh-CN/roadmap/experiments.md)会公开下一批问题，但不会提前公布答案。
+我们计划每两周发布一篇中英文文章。[实验路线图](zh-CN/roadmap/experiments.md)会公开下一批问题，但不会提前公布答案。
 
 如果你想知道接下来会发生什么，请 **[Star 本仓库](https://github.com/jackyhsu/ai-native-organization)**，并参与 [Discussions](https://github.com/jackyhsu/ai-native-organization/discussions)。
 
