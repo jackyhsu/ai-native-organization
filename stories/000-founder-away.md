@@ -1,12 +1,10 @@
-# The Founder Was Away for 9 Days. The Company Kept Learning
+# 000 The Founder Was Away. The Company Kept Growing
 
-English | [中文](../zh-CN/stories/001-founder-away.md)
-
-**Status: ✅ Worked—with governance limits**
+English | [中文](../zh-CN/stories/000-founder-away.md)
 
 **By Jacky Hsu**
 
-## Prologue: The founder was away. The company kept growing.
+## The founder was away. The company kept growing.
 
 By the ninth day, my body could no longer give the company one uninterrupted hour.
 
@@ -122,6 +120,6 @@ The real challenge is teaching it where to grow, what it must not touch, and whe
 
 ---
 
-Next: [We Thought We Didn’t Need Engineers—Until We Found a 30,000-Line File](002-we-thought-we-didnt-need-engineers.md)
+Next: [001 Why Installing Copilot Still Doesn’t Make a Company AI-Native](001-why-copilot-is-not-ai-native.md)
 
 [Star the repository](https://github.com/jackyhsu/ai-native-organization) to follow the next experiment.

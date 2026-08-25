@@ -1,12 +1,10 @@
-# 创始人离开九天，公司仍在学习
+# 000 创始人不在，公司仍在生长
 
-[English](../../stories/001-founder-away.md) | 中文
-
-**状态：✅ 有效，但存在治理边界**
+[English](../../stories/000-founder-away.md) | 中文
 
 **作者：Jacky Hsu（许建志）**
 
-## 序章-创始人不在，公司仍在生长
+## 创始人不在，公司仍在生长
 
 第九天，我的身体已经无法为公司留出一个完整的小时。
 
@@ -122,6 +120,6 @@ AI 原生组织的价值，不是要求人突破这条边界，变成一个永�
 
 ---
 
-下一篇：[我们以为不需要工程师，直到发现一个三万行的文件](002-we-thought-we-didnt-need-engineers.md)
+下一篇：[001 为什么装了 Copilot，仍然不是 AI 原生？](001-why-copilot-is-not-ai-native.md)
 
 [Star 本仓库](https://github.com/jackyhsu/ai-native-organization)，继续追踪实验。

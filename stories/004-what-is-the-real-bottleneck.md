@@ -1,12 +1,10 @@
-# We Thought We Didn’t Need Engineers—Until We Found a 30,000-Line File
+# 004 When AI Runs in Parallel 24/7, What Becomes the Company’s Real Bottleneck?
 
-English | [中文](../zh-CN/stories/002-we-thought-we-didnt-need-engineers.md)
-
-**Status: 💥 Failed**
+English | [中文](../zh-CN/stories/004-what-is-the-real-bottleneck.md)
 
 **By Jacky Hsu**
 
-## Chapter Four: When AI can run in parallel 24/7, what is the company’s real bottleneck?
+## When AI can run in parallel 24/7, what is the company’s real bottleneck?
 
 For a while, our biggest concern at night was running out of tokens.
 
@@ -22,7 +20,7 @@ For a time, we developed an almost dangerous feeling:
 
 If AI never sleeps and tokens are abundant, can a company produce without limit?
 
-This stage later acquired a vivid name: Tokenmaxxing—turning as many available tokens as possible into work. For a startup team that had just experienced the kind of productivity shock described in the second chapter, the temptation was powerful. Yesterday we were anxious because we had no engineers. Today, it seemed that we had a digital team that was always available and never needed to rest.
+This stage later acquired a vivid name: Tokenmaxxing—turning as many available tokens as possible into work. For a startup team that had just experienced the kind of productivity shock described in article 002, the temptation was powerful. Yesterday we were anxious because we had no engineers. Today, it seemed that we had a digital team that was always available and never needed to rest.
 
 Then our application began to fail repeatedly.
 
@@ -283,6 +281,8 @@ The company’s next layer of infrastructure, then, cannot be merely more agents
 It must be shared memory that can preserve sources, connect experience, manage versions, and continuously correct itself.
 
 ---
+
+Previous: [003 Why Can’t Traditional Hierarchies Keep Up with AI Execution Speed?](003-why-traditional-hierarchy-cannot-keep-up.md)
 
 Return to the [Experiment Roadmap](../roadmap/experiments.md).
 

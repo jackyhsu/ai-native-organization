@@ -7,10 +7,10 @@ This repository documents a real, ongoing company experiment.
 - Preserve uncertainty. Never turn a test, prototype, or plan into a completed success.
 - Prefer one concrete story over a generic management lesson.
 - Use this sequence: unexpected situation, prior belief, what happened, contradiction or failure, one lesson, open question, next test.
-- Mark experiment status explicitly when useful: ✅ Worked, 💥 Failed, 🧪 Testing, ⏳ Planned.
+- Do not reduce published articles to binary success/failure labels. State the lesson learned and preserve its limits.
 - Keep each public story focused. Do not append toolkits, canvases, diagnostic tables, or full implementation guides.
 - Remove repeated arguments. One story should carry one central tension and one principal lesson.
-- The two launch stories are author-approved long-form exceptions: preserve their Chinese source narrative and structure, omit the closing toolkits, and maintain a complete English translation.
+- Articles 000–004 are author-approved long-form pieces: preserve their Chinese source narrative and structure, omit the closing toolkits, and maintain a complete English translation.
 
 ## Bilingual contract
 

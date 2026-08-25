@@ -18,4 +18,4 @@ This repository records those limits as they appear. It will include successful 
 
 The goal is not to prove that Ingora has found the answer. The goal is to leave a public trail of evidence while we look for it.
 
-Next: read the first experiment, [The Founder Was Away for 9 Days. The Company Kept Learning](../stories/001-founder-away.md).
+Next: read article [000 The Founder Was Away. The Company Kept Growing](../stories/000-founder-away.md).
