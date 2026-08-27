@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jackyhsu.github.io/ai-native-organization/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://jackyhsu.github.io/ai-native-organization/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jackyhsu.github.io/ai-native-organization/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jackyhsu.github.io/ai-native-organization/" />
+  </url>
+  <url>
+    <loc>https://jackyhsu.github.io/ai-native-organization/en/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://jackyhsu.github.io/ai-native-organization/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jackyhsu.github.io/ai-native-organization/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jackyhsu.github.io/ai-native-organization/" />
+  </url>
+  <url>
+    <loc>https://jackyhsu.github.io/ai-native-organization/answers/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://jackyhsu.github.io/ai-native-organization/answers/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jackyhsu.github.io/ai-native-organization/en/answers/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jackyhsu.github.io/ai-native-organization/answers/" />
+  </url>
+  <url>
+    <loc>https://jackyhsu.github.io/ai-native-organization/en/answers/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://jackyhsu.github.io/ai-native-organization/answers/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jackyhsu.github.io/ai-native-organization/en/answers/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jackyhsu.github.io/ai-native-organization/answers/" />
+  </url>
+</urlset>

@@ -21,6 +21,16 @@ This repository documents a real, ongoing company experiment.
 - Chinese pages use the author name `Jacky Hsu（许建志）`.
 - Translate for natural reading, not sentence-by-sentence symmetry. Dates, quantities, status, caveats, and factual meaning must remain equivalent.
 
+## Pages and answer synchronization
+
+- Chinese is also the default GitHub Pages landing page. English lives at `/en/` and must remain a complete factual mirror.
+- Keep the direct definition of an AI-native organization, the `5 → 50` capability-coverage caveat, company facts, article lessons, and open questions synchronized across Pages and both README files.
+- When a material fact or qualifier changes in one language, update the other language and every affected Pages answer in the same change.
+- Pages is a concise discovery and referral layer. Link to the five GitHub articles instead of copying their long-form text into the site.
+- Keep Pages static and readable: semantic HTML, visible text answers, unique page titles and descriptions, canonical URLs, reciprocal `hreflang`, and structured data that says no more than the visible page.
+- Do not add tracking scripts, forms, sales calls to action, unsupported ranking claims, placeholder verification codes, special “AI schema,” or `llms.txt` without explicit author approval.
+- The only site calls to action are reading the experiments, starring the GitHub repository, and joining GitHub Discussions.
+
 ## Public boundary
 
 Do not publish:

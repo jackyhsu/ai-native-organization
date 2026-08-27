@@ -4,7 +4,11 @@
 
 **一场围绕 AI 重建公司的真实实验。**
 
+**[访问双语网站](https://jackyhsu.github.io/ai-native-organization/)** · [八个核心问答](https://jackyhsu.github.io/ai-native-organization/answers/)
+
 > 五个人，能不能建立过去可能需要五十人才有机会覆盖的公司能力？
+
+AI 原生组织不是给传统公司安装 Copilot，而是围绕 AI Agent、共同记忆、并行执行与人类监督重新设计公司。Ingora 正在测试五人团队能否覆盖过去可能需要四五十人才有机会同时覆盖的职能范围；这不是“五个人等于五十人生产力”的结论。
 
 ## 30 秒理解这场实验
 

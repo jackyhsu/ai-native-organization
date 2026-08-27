@@ -4,7 +4,11 @@ English | [中文](README.md)
 
 **A live experiment in rebuilding a company around AI.**
 
+**[Visit the bilingual website](https://jackyhsu.github.io/ai-native-organization/en/)** · [Eight core answers](https://jackyhsu.github.io/ai-native-organization/en/answers/)
+
 > Can 5 humans build what used to require 50?
+
+An AI-native organization is not a traditional company with Copilot added. It is designed around AI agents, shared memory, parallel execution, and human oversight. Ingora is testing whether five humans can cover capabilities that might once have required 40–50 people; this is not a claim that five people equal fifty-person productivity.
 
 ## The experiment in 30 seconds
 
